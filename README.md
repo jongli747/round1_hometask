@@ -21,5 +21,6 @@ python ocr.py
 A window will come after running the script. Please select your region of interest (roi) as illustrated in gif
 * If you select a wrong roi press 'r' to reset and again try to select the region.
 * If you select the correct roi press 's' to save and 'c' to close the new window.
-After that you can see your desire output in the command line.
+After that you can see your desire output in the terminal.
+
 ![](ocr.gif)
